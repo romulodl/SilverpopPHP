@@ -1,5 +1,5 @@
 {
-    "name": "simpleweb/silverpopphp",
+    "name": "romulodl/silverpopphp",
     "type": "library",
     "description": "Silverpop API in php",
     "keywords": ["Silverpop","email", "API", "XML-API"],
@@ -7,9 +7,9 @@
     "license": "GPL",
     "authors": [
         {
-            "name": "David Haywood Smith",
-            "email": "davehs@gmail.com",
-            "homepage": "https://github.com/DHS/"
+            "name": "Romulo De Lazzari",
+            "email": "romulodelazzari@gmail.com",
+            "homepage": "https://github.com/romulodl/"
         }
     ],
     "require": {
